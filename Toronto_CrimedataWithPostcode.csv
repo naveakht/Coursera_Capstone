@@ -1,4 +1,4 @@
-Occurrence_year,Homicide_Type,Neighbourhood,Lat,Long,postcode
+Index,Occurrence_year,Homicide_Type,Neighbourhood,Lat,Long,postcode
 0,2004,Other,Rosedale-Moore Park (98),43.685028,-79.392853,M4T 1X3
 1,2004,Shooting,Woburn (137),43.781536,-79.234962,M1H 2G3
 2,2004,Shooting,Malvern (132),43.810860,-79.206894,M1B 3A9
