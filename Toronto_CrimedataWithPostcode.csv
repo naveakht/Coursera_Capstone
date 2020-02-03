@@ -1,0 +1,1016 @@
+Occurrence_year,Homicide_Type,Neighbourhood,Lat,Long,postcode
+0,2004,Other,Rosedale-Moore Park (98),43.685028,-79.392853,M4T 1X3
+1,2004,Shooting,Woburn (137),43.781536,-79.234962,M1H 2G3
+2,2004,Shooting,Malvern (132),43.810860,-79.206894,M1B 3A9
+3,2004,Shooting,Dovercourt-Wallace Emerson-Junction (93),43.670475,-79.434403,M6H 2B5
+4,2004,Shooting,Rouge (131),43.823543,-79.203865,M1B 5J2
+5,2004,Stabbing,Downsview-Roding-CFB (26),43.720917,-79.508636,M3M 1V1
+6,2004,Shooting,Downsview-Roding-CFB (26),43.722366,-79.508980,M3M 1V1
+7,2004,Other,Mount Olive-Silverstone-Jamestown (2),43.743115,-79.592865,M9V 2E9
+8,2004,Shooting,Rouge (131),43.816269,-79.227600,M1B 1Y3
+9,2004,Shooting,Clairlea-Birchmount (120),43.700085,-79.286728,M1L 3H1
+10,2004,Shooting,Agincourt North (129),43.808029,-79.266502,M1S 3Y7
+11,2004,Stabbing,Woburn (137),43.766472,-79.241806,M1H 1H1
+12,2004,Other,Bedford Park-Nortown (39),43.709606,-79.427460,M6B 2Y8
+13,2004,Other,Woburn (137),43.759827,-79.225327,M1H 2A2
+14,2004,Other,Moss Park (73),43.658295,-79.371033,M5A 1Z9
+15,2004,Shooting,Elms-Old Rexdale (5),43.725098,-79.550568,M9W 2N8
+16,2004,Shooting,Mount Olive-Silverstone-Jamestown (2),43.735081,-79.579880,M9V 3M5
+17,2004,Shooting,Old East York (58),43.695946,-79.328781,M4C 2Z7
+18,2004,Shooting,Black Creek (24),43.769165,-79.518761,M3N 2S6
+19,2004,Stabbing,Alderwood (20),43.594315,-79.544144,M8W 1R2
+20,2004,Shooting,Regent Park (72),43.660088,-79.362999,M5A 2B7
+21,2004,Other,Thistletown-Beaumond Heights (3),43.735508,-79.578308,M9W 0C6
+22,2004,Other,Yorkdale-Glen Park (31),43.710167,-79.457046,M6B 3T4
+23,2004,Other,Roncesvalles (86),43.642464,-79.438751,M6K 3L2
+24,2004,Other,Moss Park (73),43.660656,-79.374847,M5A 2L3
+25,2004,Shooting,South Parkdale (85),43.635983,-79.428131,M6K 1A9
+26,2004,Stabbing,Moss Park (73),43.654526,-79.369461,M5A 1S2
+27,2004,Shooting,Pelmo Park-Humberlea (23),43.711205,-79.535179,M9N 3V9
+28,2004,Shooting,Black Creek (24),43.772144,-79.522667,M3N 1V5
+29,2004,Stabbing,Oakridge (121),43.699543,-79.275803,M1L 3Z3
+30,2004,Stabbing,Stonegate-Queensway (16),43.630154,-79.485252,M8Y 1J3
+31,2004,Stabbing,Rustic (28),43.708416,-79.505348,M9N 2S4
+32,2004,Stabbing,Willowdale East (51),43.767475,-79.412445,M2N 6C6
+33,2004,Shooting,Hillcrest Village (48),43.800861,-79.356339,M2H 2C6
+34,2004,Other,Junction Area (90),43.663254,-79.467651,NOTAVAIL
+35,2004,Shooting,Moss Park (73),43.650684,-79.366692,M5A 4M8
+36,2004,Other,Dovercourt-Wallace Emerson-Junction (93),43.663322,-79.453392,NOTAVAIL
+37,2004,Stabbing,Rustic (28),43.702881,-79.503838,M9N 2S4
+38,2004,Stabbing,Briar Hill-Belgravia (108),43.702255,-79.441109,M6E 3B5
+39,2004,Shooting,Highland Creek (134),43.793850,-79.157783,M1C 0C3
+40,2004,Other,Moss Park (73),43.652351,-79.372719,M5C 3H5
+41,2004,Stabbing,Humber Summit (21),43.750652,-79.549072,M9M 2C7
+42,2004,Shooting,Kingsview Village-The Westway (6),43.700642,-79.561440,M9W 1B3
+43,2004,Shooting,West Humber-Clairville (1),43.732193,-79.614273,M9W 5L7
+44,2004,Other,York University Heights (27),43.745331,-79.492401,M3J 3C8
+45,2004,Other,South Riverdale (70),43.660564,-79.337273,M4M 1K2
+46,2004,Shooting,Rustic (28),43.711269,-79.500549,M6L 3E2
+47,2004,Other,Mount Pleasant East (99),43.701023,-79.378586,M4S 1H2
+48,2010,Other,Glenfield-Jane Heights (25),43.739391,-79.513222,M3L 2E8
+49,2004,Other,Corso Italia-Davenport (92),43.676308,-79.450600,M6E 1C3
+50,2004,Stabbing,Dovercourt-Wallace Emerson-Junction (93),43.669308,-79.428719,M6G 3V5
+51,2004,Stabbing,Dovercourt-Wallace Emerson-Junction (93),43.669308,-79.428719,M6G 3V5
+52,2004,Other,Centennial Scarborough (133),43.781632,-79.169952,M1C 1B7
+53,2004,Stabbing,Old East York (58),43.695946,-79.328781,M4C 2Z7
+54,2004,Other,High Park North (88),43.651882,-79.472870,NOTAVAIL
+55,2004,Stabbing,St.Andrew-Windfields (40),43.752152,-79.384972,M2L 2K4
+56,2004,Stabbing,University (79),43.657654,-79.401848,M5T 1S3
+57,2004,Stabbing,O'Connor-Parkview (54),43.708347,-79.310654,M4B 3J9
+58,2004,Shooting,Church-Yonge Corridor (75),43.660671,-79.378876,M5B 1J6
+59,2004,Shooting,Kennedy Park (124),43.730751,-79.256516,M1K 2R5
+60,2004,Shooting,Flemingdon Park (44),43.712254,-79.329292,M3C 3E7
+61,2004,Stabbing,Cliffcrest (123),43.735382,-79.235916,M1M 2A4
+62,2004,Other,Malvern (132),43.791882,-79.236061,M1S 4N8
+63,2004,Shooting,Maple Leaf (29),43.714722,-79.479462,M6L 2K5
+64,2005,Stabbing,Milliken (130),43.827381,-79.265244,M1V 5P6
+65,2005,Stabbing,Dovercourt-Wallace Emerson-Junction (93),43.665382,-79.424461,M6G 3N1
+66,2005,Shooting,Niagara (82),43.642910,-79.407715,M6J 2L3
+67,2005,Shooting,Niagara (82),43.642910,-79.407715,M6J 2L3
+68,2005,Shooting,Dorset Park (126),43.769424,-79.282257,M1P 5B7
+69,2005,Other,Weston-Pellam Park (91),43.670338,-79.455795,NOTAVAIL
+70,2005,Shooting,Mount Olive-Silverstone-Jamestown (2),43.753620,-79.587097,M9V 5C7
+71,2005,Shooting,Dorset Park (126),43.769424,-79.282257,M1P 5B7
+72,2005,Shooting,North St.James Town (74),43.667297,-79.373779,M4X 1P8
+73,2005,Other,Mimico (includes Humber Bay Shores) (17),43.613285,-79.491875,M8V 1C5
+74,2005,Shooting,Newtonbrook West (36),43.785919,-79.446053,M2R 1Z9
+75,2005,Shooting,Banbury-Don Mills (42),43.740986,-79.356308,M3B 1H4
+76,2005,Stabbing,Stonegate-Queensway (16),43.623920,-79.498238,M8Y 2Z7
+77,2005,Shooting,Church-Yonge Corridor (75),43.661877,-79.379372,M5B 2J6
+78,2005,Shooting,Birchcliffe-Cliffside (122),43.685314,-79.281258,M1N 2S4
+79,2005,Shooting,South Parkdale (85),43.637180,-79.436035,M6K 1M3
+80,2005,Other,Waterfront Communities-The Island (77),43.642391,-79.384010,M5J 3A6
+81,2005,Shooting,Humber Summit (21),43.751442,-79.552986,M9L 1X9
+82,2005,Stabbing,Agincourt North (129),43.807812,-79.284157,M1V 1H6
+83,2005,Shooting,Dovercourt-Wallace Emerson-Junction (93),43.659885,-79.435364,M6H 1M7
+84,2005,Stabbing,Glenfield-Jane Heights (25),43.755215,-79.515358,M3N 2V2
+85,2005,Shooting,Danforth (66),43.679569,-79.341774,M4K 1P6
+86,2005,Shooting,Church-Yonge Corridor (75),43.667374,-79.381638,M4Y 2C7
+87,2005,Shooting,Agincourt South-Malvern West (128),43.784107,-79.241631,M1S 3R1
+88,2005,Shooting,West Hill (136),43.758167,-79.193054,M1E 1W7
+89,2005,Stabbing,Glenfield-Jane Heights (25),43.739674,-79.509682,M3L 1Y6
+90,2005,Shooting,East End-Danforth (62),43.689720,-79.294922,M4C 1M1
+91,2005,Shooting,Black Creek (24),43.766773,-79.521873,M3N 1S9
+92,2005,Stabbing,Englemount-Lawrence (32),43.720131,-79.441025,M6A 2N4
+93,2005,Shooting,Dovercourt-Wallace Emerson-Junction (93),43.666431,-79.438187,M6H 3G4
+94,2005,Shooting,Humber Summit (21),43.746250,-79.568619,M9V 1V9
+95,2005,Other,Oakridge (121),43.694626,-79.272530,M1L 1E3
+96,2005,Shooting,Rockcliffe-Smythe (111),43.678806,-79.482903,NOTAVAIL
+97,2005,Other,Parkwoods-Donalda (45),43.743374,-79.325851,M3A 1E9
+98,2005,Other,West Hill (136),43.769825,-79.191681,M1E 1X5
+99,2005,Shooting,Englemount-Lawrence (32),43.720131,-79.441025,M6A 2N4
+100,2005,Shooting,L'Amoreaux (117),43.796776,-79.315765,M1W 2R5
+101,2012,Shooting,Dufferin Grove (83),43.654278,-79.437302,M6H 1N4
+102,2012,Shooting,Lansing-Westgate (38),43.757469,-79.425423,M2N 1N1
+103,2012,Shooting,Lansing-Westgate (38),43.757469,-79.425423,M2N 1N1
+104,2012,Other,L'Amoreaux (117),43.784492,-79.315231,M1T 1P7
+105,2012,Other,Willowdale East (51),43.765659,-79.411995,M2N 7G9
+106,2010,Stabbing,Casa Loma (96),43.680050,-79.415855,M5R 3E6
+107,2012,Stabbing,Kingsway South (15),43.649403,-79.519646,M9A 3N7
+108,2010,Other,Dovercourt-Wallace Emerson-Junction (93),43.665375,-79.443443,M6H 2A6
+109,2010,Stabbing,High Park-Swansea (87),43.640427,-79.473381,NOTAVAIL
+110,2010,Other,New Toronto (18),43.599327,-79.511864,M8V 1K3
+111,2010,Stabbing,Kingsview Village-The Westway (6),43.694252,-79.558647,M9R 2K5
+112,2010,Stabbing,Rockcliffe-Smythe (111),43.676105,-79.505943,NOTAVAIL
+113,2010,Shooting,York University Heights (27),43.744782,-79.486450,M3J 1P5
+114,2010,Stabbing,Annex (95),43.668392,-79.402023,M5R 2R3
+115,2012,Shooting,Rockcliffe-Smythe (111),43.672764,-79.487625,NOTAVAIL
+116,2012,Stabbing,Wexford/Maryvale (119),43.732555,-79.305893,M1R 1P8
+117,2012,Other,High Park North (88),43.657547,-79.465248,NOTAVAIL
+118,2012,Shooting,Englemount-Lawrence (32),43.722610,-79.441864,NOTAVAIL
+119,2012,Shooting,Yonge-Eglinton (100),43.697929,-79.403320,M5P 1C7
+120,2012,Other,Oakridge (121),43.703220,-79.279518,M1L 3Z3
+121,2012,Shooting,Lambton Baby Point (114),43.664887,-79.501503,NOTAVAIL
+122,2012,Other,Moss Park (73),43.650734,-79.370689,M5A 1J4
+123,2012,Shooting,Centennial Scarborough (133),43.786495,-79.155266,M1C 0A1
+124,2012,Shooting,Church-Yonge Corridor (75),43.654064,-79.379974,M5B 1M4
+125,2012,Shooting,Church-Yonge Corridor (75),43.654064,-79.379974,M5B 1M4
+126,2012,Shooting,Palmerston-Little Italy (80),43.655247,-79.418327,M6G 1C2
+127,2012,Shooting,Dorset Park (126),43.769424,-79.282257,M1P 5B7
+128,2012,Shooting,Willowdale East (51),43.756504,-79.406570,M2N 0C2
+129,2012,Shooting,Islington-City Centre West (14),43.649071,-79.558350,M9B 2A8
+130,2012,Shooting,West Hill (136),43.764870,-79.184883,M1E 4S6
+131,2012,Shooting,West Hill (136),43.764870,-79.184883,M1E 4S6
+132,2012,Shooting,Mount Dennis (115),43.684383,-79.504219,NOTAVAIL
+133,2012,Shooting,Englemount-Lawrence (32),43.719486,-79.443909,M6A 2N4
+134,2012,Other,Agincourt South-Malvern West (128),43.781223,-79.254982,M1S 3P6
+135,2012,Shooting,Black Creek (24),43.767212,-79.514770,M3N 2K7
+136,2012,Other,Malvern (132),43.806538,-79.218651,M1B 3G5
+137,2012,Other,Clairlea-Birchmount (120),43.727947,-79.282761,M1L 2M3
+138,2012,Shooting,Malvern (132),43.808357,-79.206535,M1B 3A9
+139,2012,Shooting,East End-Danforth (62),43.678886,-79.298027,M4E 1R7
+140,2012,Shooting,Glenfield-Jane Heights (25),43.747097,-79.515129,M3N 1K1
+141,2012,Other,Briar Hill-Belgravia (108),43.702255,-79.441109,M6E 3B5
+142,2012,Shooting,Mount Olive-Silverstone-Jamestown (2),43.733971,-79.582611,M9V 3M5
+143,2012,Shooting,Mount Olive-Silverstone-Jamestown (2),43.733971,-79.582611,M9V 3M5
+144,2012,Shooting,Black Creek (24),43.757870,-79.515465,M3N 2Y9
+145,2012,Other,Woburn (137),43.775745,-79.234993,M1H 3B7
+146,2012,Stabbing,Cabbagetown-South St.James Town (71),43.664520,-79.370888,M5A 2L1
+147,2012,Shooting,Morningside (135),43.785892,-79.213562,M1E 4E6
+148,2012,Shooting,Yorkdale-Glen Park (31),43.720859,-79.449371,M6A 2R1
+149,2012,Stabbing,South Parkdale (85),43.636929,-79.437271,NOTAVAIL
+150,2012,Shooting,Mount Dennis (115),43.688309,-79.493141,M6M 5C4
+151,2012,Shooting,University (79),43.656723,-79.406517,M5T 1T3
+152,2012,Other,Mount Olive-Silverstone-Jamestown (2),43.736351,-79.581047,M9V 3M5
+153,2012,Other,Woodbine Corridor (64),43.679684,-79.314301,M4L 2C2
+154,2012,Stabbing,Flemingdon Park (44),43.723702,-79.324707,M3C 1L3
+155,2012,Shooting,Downsview-Roding-CFB (26),43.733581,-79.483727,M3M 2C9
+156,2012,Other,Playter Estates-Danforth (67),43.677525,-79.358650,M4K 1N1
+157,2012,Stabbing,North St.James Town (74),43.667297,-79.373779,M4X 1P8
+158,2012,Other,Markland Wood (12),43.633270,-79.582756,M9C 1R1
+159,2012,Shooting,Markland Wood (12),43.633270,-79.582756,M9C 1R1
+160,2010,Shooting,Bendale (127),43.755901,-79.266663,M1P 2S1
+161,2010,Shooting,Kensington-Chinatown (78),43.652260,-79.397789,M5T 2E4
+162,2010,Stabbing,Bendale (127),43.755264,-79.246758,M1P 2T7
+163,2010,Shooting,Flemingdon Park (44),43.715313,-79.329651,M3C 3E7
+164,2010,Shooting,Agincourt South-Malvern West (128),43.787411,-79.259125,NOTAVAIL
+165,2010,Shooting,Glenfield-Jane Heights (25),43.740326,-79.506882,M3L 1Z5
+166,2010,Shooting,West Humber-Clairville (1),43.731690,-79.611816,M9W 5L7
+167,2010,Stabbing,Flemingdon Park (44),43.716557,-79.337318,M3C 1V4
+168,2010,Shooting,Islington-City Centre West (14),43.646774,-79.530556,M9A 1B6
+169,2010,Shooting,North St.James Town (74),43.668873,-79.374451,M4X 1G3
+170,2010,Shooting,Englemount-Lawrence (32),43.722610,-79.441864,M6A 2N4
+171,2010,Stabbing,Dufferin Grove (83),43.651432,-79.440193,M6H 1C5
+172,2010,Shooting,Woburn (137),43.759319,-79.232025,M1H 1S2
+173,2010,Shooting,Black Creek (24),43.761921,-79.518822,M3N 2X9
+174,2010,Stabbing,Humber Heights-Westmount (8),43.686852,-79.513145,M9P 1E9
+175,2010,Other,Junction Area (90),43.666336,-79.473579,NOTAVAIL
+176,2010,Shooting,Weston (113),43.699822,-79.515366,M9N 2B3
+177,2010,Shooting,Weston (113),43.699822,-79.515366,M9N 2B3
+178,2010,Shooting,South Parkdale (85),43.633755,-79.433319,M6K 2V4
+179,2010,Other,Wexford/Maryvale (119),43.738800,-79.308464,NOTAVAIL
+180,2010,Shooting,Black Creek (24),43.757870,-79.515465,M3N 2Y9
+181,2010,Shooting,Regent Park (72),43.660343,-79.359077,M5A 1X6
+182,2010,Shooting,Regent Park (72),43.660343,-79.359077,M5A 1X6
+183,2010,Shooting,Clairlea-Birchmount (120),43.702400,-79.276993,M1L 3Z3
+184,2010,Shooting,Regent Park (72),43.657455,-79.362701,M5A 3N6
+185,2010,Stabbing,South Riverdale (70),43.663677,-79.353752,M4M 2B3
+186,2010,Shooting,Willowdale West (37),43.771706,-79.414581,M2N 2N1
+187,2010,Shooting,Don Valley Village (47),43.787350,-79.353027,M2Z 3C1
+188,2010,Shooting,Glenfield-Jane Heights (25),43.741077,-79.503403,M3L 1Y5
+189,2010,Shooting,Woburn (137),43.759319,-79.232025,M1H 1S2
+190,2010,Other,Waterfront Communities-The Island (77),43.644749,-79.391792,M5V 3H2
+191,2010,Shooting,Regent Park (72),43.661202,-79.358162,M5A 3N9
+192,2010,Other,East End-Danforth (62),43.683952,-79.300156,M4E 2C6
+193,2010,Shooting,Rockcliffe-Smythe (111),43.671673,-79.493752,NOTAVAIL
+194,2010,Other,Cabbagetown-South St.James Town (71),43.665058,-79.368301,NOTAVAIL
+195,2010,Other,Brookhaven-Amesbury (30),43.696430,-79.490166,M6M 5E6
+196,2010,Other,Morningside (135),43.766804,-79.206787,M1G 3G9
+197,2013,Stabbing,York University Heights (27),43.777721,-79.494652,M3J
+198,2013,Shooting,Regent Park (72),43.660343,-79.359077,M5A 1X6
+199,2013,Other,Willowridge-Martingrove-Richview (7),43.675716,-79.568436,M9R 3V7
+200,2005,Shooting,Church-Yonge Corridor (75),43.657417,-79.381371,M5B 1R8
+201,2005,Shooting,Mount Olive-Silverstone-Jamestown (2),43.733971,-79.582611,M9V 3M5
+202,2005,Shooting,L'Amoreaux (117),43.798180,-79.333130,M1W 2K7
+203,2005,Shooting,Cabbagetown-South St.James Town (71),43.665741,-79.375519,M4X 1K2
+204,2005,Shooting,Cabbagetown-South St.James Town (71),43.665741,-79.375519,M4X 1K2
+205,2005,Shooting,Humber Heights-Westmount (8),43.695824,-79.520592,M9N 1X4
+206,2005,Shooting,North St.James Town (74),43.667095,-79.374680,M4X 1K2
+207,2005,Shooting,Flemingdon Park (44),43.718735,-79.334953,M3C 1C3
+208,2005,Other,Bendale (127),43.758125,-79.266625,M1P 3C1
+209,2005,Other,New Toronto (18),43.603004,-79.507484,M8V 3W7
+210,2005,Shooting,Scarborough Village (139),43.742836,-79.220558,NOTAVAIL
+211,2005,Shooting,Glenfield-Jane Heights (25),43.739128,-79.509521,M3L 2E8
+212,2005,Other,Moss Park (73),43.656166,-79.370125,M5A 1Z9
+213,2005,Stabbing,Banbury-Don Mills (42),43.740276,-79.343658,M3B 3K8
+214,2005,Shooting,Rustic (28),43.704922,-79.502274,M9N 2S4
+215,2005,Shooting,Niagara (82),43.635239,-79.399200,M5V 1B3
+216,2005,Shooting,Black Creek (24),43.767212,-79.514770,M3N 2K7
+217,2005,Shooting,Glenfield-Jane Heights (25),43.751896,-79.516342,M3N 2Y9
+218,2005,Shooting,South Parkdale (85),43.637463,-79.434723,M6K 2Y3
+219,2005,Shooting,Elms-Old Rexdale (5),43.727291,-79.549362,M9W 2N8
+220,2005,Shooting,Elms-Old Rexdale (5),43.727291,-79.549362,M9W 2N8
+221,2005,Shooting,Elms-Old Rexdale (5),43.727291,-79.549362,M9W 2N8
+222,2005,Other,Old East York (58),43.694546,-79.335266,M4J 2R2
+223,2005,Stabbing,West Hill (136),43.770397,-79.162628,M1E 3Y3
+224,2005,Shooting,Mount Olive-Silverstone-Jamestown (2),43.738697,-79.588531,NOTAVAIL
+225,2005,Shooting,Mount Olive-Silverstone-Jamestown (2),43.736774,-79.591705,M9V 3L5
+226,2005,Shooting,Mount Olive-Silverstone-Jamestown (2),43.736774,-79.591705,M9V 3L5
+227,2005,Shooting,L'Amoreaux (117),43.798180,-79.333130,M1W 2K7
+228,2005,Shooting,Briar Hill-Belgravia (108),43.697304,-79.442795,M6C 2E5
+229,2005,Stabbing,Willowdale East (51),43.756504,-79.406570,M2N 0C2
+230,2005,Shooting,Weston-Pellam Park (91),43.680725,-79.463631,NOTAVAIL
+231,2005,Shooting,Mount Olive-Silverstone-Jamestown (2),43.741787,-79.593315,M9V 2E9
+232,2005,Other,O'Connor-Parkview (54),43.715309,-79.301575,M4B 2V7
+233,2005,Stabbing,Dorset Park (126),43.745464,-79.277908,M1P 1C8
+234,2005,Shooting,Dovercourt-Wallace Emerson-Junction (93),43.659580,-79.448685,NOTAVAIL
+235,2005,Other,Black Creek (24),43.773209,-79.521423,M3N 2S6
+236,2005,Shooting,Humber Summit (21),43.772938,-79.543823,L4L 4S5
+237,2005,Other,Roncesvalles (86),43.641029,-79.434517,M6K 1M1
+238,2005,Other,Forest Hill North (102),43.707107,-79.426857,M6B 2Y8
+239,2005,Shooting,Glenfield-Jane Heights (25),43.751858,-79.516693,M3N 1K8
+240,2005,Shooting,Danforth (66),43.684525,-79.318222,NOTAVAIL
+241,2005,Stabbing,Clanton Park (33),43.736111,-79.440086,M3H 1S8
+242,2005,Other,Steeles (116),43.807217,-79.332146,M1W 2Y2
+243,2006,Shooting,Briar Hill-Belgravia (108),43.696262,-79.447685,M6E 2H4
+244,2006,Other,Bedford Park-Nortown (39),43.735184,-79.414925,M5M 3S1
+245,2006,Shooting,Glenfield-Jane Heights (25),43.745068,-79.501755,M3L 1Y5
+246,2006,Stabbing,L'Amoreaux (117),43.796703,-79.330383,M1W 2K7
+247,2006,Stabbing,L'Amoreaux (117),43.796703,-79.330383,M1W 2K7
+248,2006,Stabbing,L'Amoreaux (117),43.796703,-79.330383,M1W 2K7
+249,2006,Stabbing,Flemingdon Park (44),43.716557,-79.337318,M3C 1V4
+250,2006,Other,Taylor-Massey (61),43.692867,-79.292519,M4C 1M9
+251,2006,Other,Highland Creek (134),43.792725,-79.174393,M1C 4Y1
+252,2006,Shooting,Humbermede (22),43.747883,-79.545227,M9M 2A8
+253,2006,Shooting,Scarborough Village (139),43.743183,-79.218910,M1M 2J1
+254,2006,Shooting,North St.James Town (74),43.667297,-79.373779,M4X 1P8
+255,2006,Shooting,Mount Dennis (115),43.687572,-79.490913,M6M 5C4
+256,2006,Shooting,Glenfield-Jane Heights (25),43.748474,-79.507194,NOTAVAIL
+257,2006,Other,Humber Summit (21),43.750652,-79.549072,M9M 2C7
+258,2006,Stabbing,Downsview-Roding-CFB (26),43.729607,-79.471466,M3K 1V5
+259,2006,Stabbing,Don Valley Village (47),43.780979,-79.344322,M2J 3E8
+260,2006,Shooting,Flemingdon Park (44),43.719032,-79.328529,M3C 1C3
+261,2006,Stabbing,New Toronto (18),43.601540,-79.508896,M8V 3Z2
+262,2006,Stabbing,Danforth (66),43.683369,-79.323639,M4C 1H8
+263,2006,Stabbing,Kensington-Chinatown (78),43.652268,-79.395721,M5T 2C2
+264,2006,Other,Taylor-Massey (61),43.692589,-79.293724,M4C 1M1
+265,2006,Other,Humewood-Cedarvale (106),43.686195,-79.420868,M6C 0A2
+266,2006,Shooting,Woburn (137),43.760574,-79.215683,M1G 1H7
+267,2006,Shooting,Weston (113),43.695644,-79.506584,M6M 5H6
+268,2006,Stabbing,Downsview-Roding-CFB (26),43.742870,-79.486000,M3M 2W9
+269,2006,Shooting,Rustic (28),43.716545,-79.502312,NOTAVAIL
+270,2006,Stabbing,Mount Dennis (115),43.687923,-79.492020,M6M 5C4
+271,2006,Stabbing,Downsview-Roding-CFB (26),43.719078,-79.508156,M3M 1V1
+272,2006,Shooting,Malvern (132),43.802509,-79.224480,M1B 2P3
+273,2006,Other,Church-Yonge Corridor (75),43.666706,-79.381363,M4Y 2C6
+274,2006,Shooting,Waterfront Communities-The Island (77),43.647285,-79.368553,M5A 4B2
+275,2006,Shooting,Junction Area (90),43.678902,-79.474075,NOTAVAIL
+276,2006,Shooting,Alderwood (20),43.600853,-79.544861,M8W 3T7
+277,2006,Shooting,Church-Yonge Corridor (75),43.654831,-79.376457,M5B 1Z2
+278,2006,Shooting,Rouge (131),43.829815,-79.226456,M1X 1X4
+279,2006,Shooting,Mount Dennis (115),43.687923,-79.492020,M6M 5C4
+280,2006,Stabbing,West Humber-Clairville (1),43.732182,-79.592087,M9V 1N7
+281,2006,Stabbing,O'Connor-Parkview (54),43.713806,-79.310623,M4B 3H1
+282,2006,Shooting,O'Connor-Parkview (54),43.713806,-79.310623,M4B 3H1
+283,2006,Other,Danforth (66),43.682278,-79.332718,M4J 1M3
+284,2006,Other,Malvern (132),43.807804,-79.215599,M1B 3G5
+285,2006,Other,South Parkdale (85),43.638737,-79.436607,M6K 1M3
+286,2006,Stabbing,Bay Street Corridor (76),43.658512,-79.384895,M5G 1H1
+287,2006,Stabbing,Bay Street Corridor (76),43.658512,-79.384895,M5G 1H1
+288,2006,Shooting,L'Amoreaux (117),43.800652,-79.307068,NOTAVAIL
+289,2006,Other,Woburn (137),43.770462,-79.240364,M1H 1H1
+290,2006,Shooting,South Parkdale (85),43.638584,-79.429131,M6K 1A9
+291,2006,Stabbing,Steeles (116),43.807369,-79.325638,M1W 2Y2
+292,2006,Other,Birchcliffe-Cliffside (122),43.710178,-79.256462,M1K 1G1
+293,2006,Other,Church-Yonge Corridor (75),43.662899,-79.383736,M4Y 1X5
+294,2006,Shooting,Humber Summit (21),43.759056,-79.569107,M9L 2E3
+295,2006,Shooting,Victoria Village (43),43.718910,-79.304466,M4A 2M2
+296,2006,Other,Wexford/Maryvale (119),43.727943,-79.300484,M1L 2T3
+297,2006,Stabbing,Highland Creek (134),43.789280,-79.194359,M1E 4P7
+298,2006,Other,Stonegate-Queensway (16),43.627735,-79.496269,M8Y 1K5
+299,2006,Stabbing,Cabbagetown-South St.James Town (71),43.666096,-79.364159,M5A 2J1
+300,2006,Shooting,Bay Street Corridor (76),43.648640,-79.386620,NOTAVAIL
+301,2006,Stabbing,Victoria Village (43),43.715988,-79.304939,M4B 2V7
+302,2006,Stabbing,Victoria Village (43),43.715988,-79.304939,M4B 2V7
+303,2006,Shooting,Malvern (132),43.809391,-79.228691,NOTAVAIL
+304,2006,Other,Runnymede-Bloor West Village (89),43.649334,-79.484482,NOTAVAIL
+305,2006,Shooting,Waterfront Communities-The Island (77),43.642738,-79.393929,M5V 3S8
+306,2006,Other,Rouge (131),43.796772,-79.197136,M1B 3C3
+307,2006,Other,Regent Park (72),43.662418,-79.358688,M5A 2B7
+308,2006,Shooting,South Parkdale (85),43.638962,-79.427376,M6K 1G4
+309,2006,Stabbing,Rexdale-Kipling (4),43.725754,-79.573471,M9W 4L2
+310,2006,Shooting,Black Creek (24),43.761921,-79.518822,M3N 2X9
+311,2006,Other,Islington-City Centre West (14),43.647400,-79.560150,M9B 3Z9
+312,2007,Shooting,Malvern (132),43.799995,-79.228218,M1B 1H3
+313,2007,Shooting,Flemingdon Park (44),43.712368,-79.324493,M3C 2Z2
+314,2007,Other,Weston (113),43.699822,-79.515366,M9N 2B3
+315,2007,Shooting,Agincourt South-Malvern West (128),43.782032,-79.268318,M1S 2B1
+316,2007,Stabbing,Rockcliffe-Smythe (111),43.678021,-79.477776,NOTAVAIL
+317,2007,Shooting,Cliffcrest (123),43.722439,-79.227905,M1M 2T6
+318,2007,Stabbing,Downsview-Roding-CFB (26),43.725517,-79.513206,NOTAVAIL
+319,2007,Stabbing,Wexford/Maryvale (119),43.726997,-79.291466,M1L 2L6
+320,2007,Shooting,Humbermede (22),43.748779,-79.548370,M9M 2A8
+321,2007,Shooting,Oakwood Village (107),43.692658,-79.440842,M6E 2A2
+322,2007,Other,Newtonbrook East (50),43.780479,-79.412315,M2N 6Z8
+323,2007,Stabbing,Glenfield-Jane Heights (25),43.751820,-79.516891,M3N 1K8
+324,2007,Shooting,Cabbagetown-South St.James Town (71),43.668175,-79.369560,M4X 1G9
+325,2007,Shooting,Mount Olive-Silverstone-Jamestown (2),43.753620,-79.587097,M9V 5C7
+326,2007,Other,Woburn (137),43.762203,-79.226250,M1H 3B7
+327,2007,Stabbing,Bathurst Manor (34),43.755123,-79.440536,M3H 2S1
+328,2007,Shooting,North Riverdale (68),43.665050,-79.354340,M4M 2B3
+329,2007,Stabbing,Ionview (125),43.733337,-79.263290,M1K 5J7
+330,2007,Shooting,Downsview-Roding-CFB (26),43.716698,-79.527679,M9M 1A7
+331,2007,Stabbing,Playter Estates-Danforth (67),43.677795,-79.350746,M4K 1P6
+332,2007,Other,Rosedale-Moore Park (98),43.670227,-79.386787,M4Y 2B2
+333,2007,Shooting,Rouge (131),43.804283,-79.179497,M1B 2X2
+334,2007,Other,Elms-Old Rexdale (5),43.726742,-79.552086,M9W 2N8
+335,2007,Shooting,Mount Pleasant East (99),43.708412,-79.390198,M4P 3B7
+336,2007,Shooting,Humbermede (22),43.741798,-79.540131,M9M 2T9
+337,2007,Shooting,Banbury-Don Mills (42),43.751801,-79.349564,NOTAVAIL
+338,2007,Shooting,Kensington-Chinatown (78),43.649673,-79.401314,M5V 2B6
+339,2007,Other,Moss Park (73),43.651569,-79.362740,M5A 1E9
+340,2007,Stabbing,Parkwoods-Donalda (45),43.759926,-79.318710,M3A 2X2
+341,2007,Shooting,Thistletown-Beaumond Heights (3),43.735508,-79.578308,M9W 0C6
+342,2007,Other,Kensington-Chinatown (78),43.652947,-79.398048,M5T 1H1
+343,2007,Other,Caledonia-Fairbank (109),43.689285,-79.459274,M6E 4M2
+344,2007,Other,Morningside (135),43.782604,-79.204979,M1G 3K5
+345,2007,Stabbing,Rouge (131),43.822872,-79.217918,M1X 1Y3
+346,2007,Stabbing,Regent Park (72),43.659443,-79.366013,M5A 3A3
+347,2007,Shooting,Rouge (131),43.797649,-79.153854,M1B 4X3
+348,2007,Stabbing,West Hill (136),43.762016,-79.194740,M1E 5B3
+349,2007,Shooting,Yorkdale-Glen Park (31),43.720859,-79.449371,M6A 2R1
+350,2007,Stabbing,Woburn (137),43.779549,-79.232979,M1H 3B7
+351,2007,Shooting,Oakwood Village (107),43.692265,-79.440636,NOTAVAIL
+352,2007,Shooting,Glenfield-Jane Heights (25),43.741077,-79.503403,M3L 1Y5
+353,2007,Shooting,North St.James Town (74),43.668873,-79.374451,M4X 1G3
+354,2007,Shooting,Waterfront Communities-The Island (77),43.648201,-79.388680,NOTAVAIL
+355,2007,Shooting,Rouge (131),43.818443,-79.211906,M1B 5J2
+356,2007,Other,Junction Area (90),43.665405,-79.464562,NOTAVAIL
+357,2007,Shooting,West Humber-Clairville (1),43.733776,-79.593536,M9V 3S4
+358,2007,Stabbing,Eglinton East (138),43.738857,-79.238357,M1J 2E4
+359,2007,Shooting,Cabbagetown-South St.James Town (71),43.662972,-79.362335,M5A 2J1
+360,2007,Stabbing,Trinity-Bellwoods (81),43.645702,-79.411484,M6J 1G3
+361,2007,Stabbing,Thorncliffe Park (55),43.703213,-79.346626,M4H 1J6
+362,2007,Stabbing,Islington-City Centre West (14),43.641522,-79.555687,M9B 3Z8
+363,2007,Shooting,Oakridge (121),43.693947,-79.284081,M1L 3E4
+364,2007,Other,Cliffcrest (123),43.727985,-79.229118,M1M 1P2
+365,2007,Other,Agincourt North (129),43.805092,-79.283401,M1S 5C2
+366,2007,Stabbing,Dorset Park (126),43.748180,-79.281441,M1P 2P9
+367,2007,Other,Oakwood Village (107),43.683056,-79.441513,NOTAVAIL
+368,2007,Shooting,Black Creek (24),43.768829,-79.520401,M3N 2K7
+369,2007,Other,Rustic (28),43.706646,-79.504829,M9N 2S4
+370,2007,Shooting,Church-Yonge Corridor (75),43.659100,-79.382118,M5G 2K2
+371,2007,Other,Parkwoods-Donalda (45),43.764641,-79.344650,M3A 3A6
+372,2007,Shooting,Glenfield-Jane Heights (25),43.754856,-79.517075,M3N 2Y9
+373,2007,Stabbing,Downsview-Roding-CFB (26),43.737373,-79.490776,M3M 2C9
+374,2007,Shooting,Rockcliffe-Smythe (111),43.671673,-79.493752,NOTAVAIL
+375,2007,Shooting,Wychwood (94),43.680527,-79.431290,M6C 1B3
+376,2007,Shooting,Glenfield-Jane Heights (25),43.750137,-79.511391,M3N 1J4
+377,2007,Shooting,Wexford/Maryvale (119),43.757027,-79.310150,M1R 2J1
+378,2007,Other,Hillcrest Village (48),43.809086,-79.361885,M2H 2E4
+379,2007,Shooting,North Riverdale (68),43.666161,-79.352913,M4M 2B5
+380,2007,Shooting,Islington-City Centre West (14),43.646774,-79.530556,M9A 1B6
+381,2007,Other,Clairlea-Birchmount (120),43.707939,-79.287437,NOTAVAIL
+382,2007,Stabbing,Glenfield-Jane Heights (25),43.749149,-79.515686,M3N 1K1
+383,2007,Shooting,Moss Park (73),43.656502,-79.366951,M5A 1W7
+384,2008,Shooting,Eglinton East (138),43.744793,-79.244720,M1J 2E1
+385,2007,Shooting,Tam O'Shanter-Sullivan (118),43.783596,-79.299347,M1T 2M5
+386,2007,Shooting,Malvern (132),43.794663,-79.234932,M1B 5Z6
+387,2007,Stabbing,O'Connor-Parkview (54),43.710529,-79.308952,M4B 2T8
+388,2007,Shooting,Black Creek (24),43.767212,-79.514770,M3N 2K7
+389,2007,Shooting,Morningside (135),43.784832,-79.195435,M1C 0C7
+390,2007,Shooting,Malvern (132),43.812088,-79.212547,M1B 3G5
+391,2007,Shooting,Rouge (131),43.817909,-79.211021,M1B 5H3
+392,2007,Shooting,Regent Park (72),43.658302,-79.359505,M5A 3J7
+393,2007,Stabbing,Mount Olive-Silverstone-Jamestown (2),43.753620,-79.587097,M9V 5C7
+394,2007,Stabbing,Woburn (137),43.775440,-79.252586,M1H 3E3
+395,2007,Other,Waterfront Communities-The Island (77),43.643940,-79.368996,NOTAVAIL
+396,2008,Stabbing,O'Connor-Parkview (54),43.708946,-79.317009,M4B 1M3
+397,2008,Shooting,Church-Yonge Corridor (75),43.669369,-79.386421,M4Y 2B2
+398,2008,Shooting,North Riverdale (68),43.666153,-79.349457,M4M 1Y2
+399,2008,Shooting,Downsview-Roding-CFB (26),43.724896,-79.509605,M3L 2H9
+400,2008,Shooting,Eglinton East (138),43.744793,-79.244720,M1J 2E1
+401,2013,Other,Dovercourt-Wallace Emerson-Junction (93),43.669842,-79.426285,M6G 3B9
+402,2013,Other,Don Valley Village (47),43.787018,-79.356964,M2J 2W3
+403,2013,Shooting,Glenfield-Jane Heights (25),43.751820,-79.516891,M3N 1K8
+404,2013,Shooting,Niagara (82),43.632687,-79.424927,M6K 1A9
+405,2013,Shooting,Mount Olive-Silverstone-Jamestown (2),43.732510,-79.586418,M9V 3M5
+406,2013,Stabbing,Caledonia-Fairbank (109),43.693027,-79.455284,M6E 4M2
+407,2013,Other,Rexdale-Kipling (4),43.726551,-79.570236,M9W 4L5
+408,2013,Other,Wexford/Maryvale (119),43.743763,-79.302200,M1R 2Y5
+409,2013,Shooting,Cabbagetown-South St.James Town (71),43.663391,-79.372162,NOTAVAIL
+410,2013,Shooting,Waterfront Communities-The Island (77),43.644455,-79.400093,M5V 1M3
+411,2013,Other,Moss Park (73),43.658295,-79.371033,M5A 1Z9
+412,2013,Shooting,Yorkdale-Glen Park (31),43.724750,-79.457085,M6A 3B2
+413,2013,Other,Steeles (116),43.815731,-79.333481,L3R 9Z7
+414,2013,Other,Newtonbrook East (50),43.781639,-79.416000,M2N 5S2
+415,2013,Other,Steeles (116),43.815731,-79.333481,L3R 9Z7
+416,2013,Other,Regent Park (72),43.662418,-79.358688,M5A 2B7
+417,2013,Other,Niagara (82),43.644196,-79.410049,M6J 2L5
+418,2013,Shooting,Rouge (131),43.818771,-79.215073,M1B 5J2
+419,2013,Stabbing,Eringate-Centennial-West Deane (11),43.642574,-79.580856,M9C 1Y5
+420,2013,Stabbing,Lansing-Westgate (38),43.757469,-79.425423,M2N 1N1
+421,2013,Other,Glenfield-Jane Heights (25),43.739391,-79.513222,M3L 2E8
+422,2013,Stabbing,Birchcliffe-Cliffside (122),43.692070,-79.263702,M1N 1S2
+423,2013,Stabbing,Eringate-Centennial-West Deane (11),43.642574,-79.580856,M9C 1Y5
+424,2013,Stabbing,Eringate-Centennial-West Deane (11),43.642574,-79.580856,NOTAVAIL
+425,2013,Shooting,Trinity-Bellwoods (81),43.650959,-79.421379,M6J 1X2
+426,2013,Other,O'Connor-Parkview (54),43.712521,-79.300354,M4B 2A6
+427,2013,Shooting,Rouge (131),43.821373,-79.220367,M1X 1Y3
+428,2013,Other,Agincourt North (129),43.807812,-79.284157,M1V 1H6
+429,2013,Shooting,High Park-Swansea (87),43.637878,-79.470642,NOTAVAIL
+430,2013,Stabbing,Broadview North (57),43.682930,-79.357216,M4K 2R6
+431,2013,Shooting,Elms-Old Rexdale (5),43.721275,-79.545715,M9W 6A5
+432,2013,Shooting,Glenfield-Jane Heights (25),43.750740,-79.516075,M3N 2Y9
+433,2013,Shooting,Glenfield-Jane Heights (25),43.749229,-79.510452,M3N 1J4
+434,2014,Other,Dorset Park (126),43.759132,-79.289589,M1R 2Z4
+435,2013,Shooting,Glenfield-Jane Heights (25),43.749229,-79.510452,M3N 1J4
+436,2014,Shooting,Humber Heights-Westmount (8),43.694614,-79.517342,M9N 1W2
+437,2014,Other,Woburn (137),43.770390,-79.220123,NOTAVAIL
+438,2014,Stabbing,O'Connor-Parkview (54),43.702221,-79.297287,M4B 2E6
+439,2014,Other,Wexford/Maryvale (119),43.769482,-79.302269,M1T 1W9
+440,2014,Shooting,Lawrence Park North (105),43.733669,-79.404396,M4N 2M4
+441,2014,Shooting,Alderwood (20),43.608871,-79.552994,M8W 2N9
+442,2014,Stabbing,Mount Olive-Silverstone-Jamestown (2),43.738392,-79.582687,M9V 3M5
+443,2014,Shooting,Flemingdon Park (44),43.716557,-79.337318,M3C 1V4
+444,2014,Stabbing,Stonegate-Queensway (16),43.630878,-79.517761,M8Z 2G6
+445,2013,Shooting,Weston (113),43.704548,-79.528320,M9N 1X7
+446,2013,Stabbing,Hillcrest Village (48),43.806038,-79.367317,M2H 2G6
+447,2013,Stabbing,Danforth (66),43.683369,-79.323639,M4C 1H8
+448,2013,Shooting,Willowridge-Martingrove-Richview (7),43.676342,-79.570412,M9R 3V7
+449,2014,Other,Greenwood-Coxwell (65),43.680378,-79.330810,M4J 5B5
+450,2014,Stabbing,Woburn (137),43.758186,-79.233078,M1H 1S2
+451,2013,Stabbing,Beechborough-Greenbrook (112),43.691719,-79.467697,M6E 4Y2
+452,2014,Stabbing,South Riverdale (70),43.662468,-79.351356,M4M 2G3
+453,2014,Shooting,East End-Danforth (62),43.686165,-79.310669,M4C 1K3
+454,2014,Shooting,East End-Danforth (62),43.686165,-79.310669,M4C 1K3
+455,2014,Shooting,Weston-Pellam Park (91),43.668487,-79.452370,NOTAVAIL
+456,2014,Shooting,Cabbagetown-South St.James Town (71),43.664467,-79.368057,NOTAVAIL
+457,2014,Shooting,Rouge (131),43.819096,-79.213020,M1B 5J2
+458,2013,Stabbing,Weston (113),43.702518,-79.519508,M9N 1X4
+459,2014,Shooting,Briar Hill-Belgravia (108),43.696362,-79.447334,M6E 2H4
+460,2014,Shooting,Greenwood-Coxwell (65),43.674320,-79.328201,M4L 2Y1
+461,2014,Other,Agincourt North (129),43.808292,-79.287537,M1V 1H6
+462,2014,Shooting,Moss Park (73),43.657307,-79.373459,M5A 2L3
+463,2014,Shooting,Yorkdale-Glen Park (31),43.719116,-79.448227,M6A 2R1
+464,2014,Other,L'Amoreaux (117),43.783878,-79.327057,M2J 4A7
+465,2014,Stabbing,Etobicoke West Mall (13),43.652397,-79.572212,M9C 1G8
+466,2014,Shooting,Mount Dennis (115),43.684479,-79.498825,NOTAVAIL
+467,2014,Shooting,Waterfront Communities-The Island (77),43.644031,-79.394486,M5V 2J2
+468,2014,Other,Dovercourt-Wallace Emerson-Junction (93),43.661739,-79.426857,M6H 1L4
+469,2014,Other,North St.James Town (74),43.667297,-79.373779,M4X 1P8
+470,2014,Other,Cabbagetown-South St.James Town (71),43.668175,-79.369560,M4X 1G9
+471,2014,Stabbing,East End-Danforth (62),43.689308,-79.296768,M4C 5A7
+472,2014,Shooting,Rustic (28),43.702881,-79.503838,NOTAVAIL
+473,2014,Shooting,St.Andrew-Windfields (40),43.760048,-79.395378,M2L 2H8
+474,2014,Other,Islington-City Centre West (14),43.646774,-79.530556,M9A 1B6
+475,2014,Shooting,Woburn (137),43.757843,-79.224709,M1H 2A2
+476,2014,Other,Don Valley Village (47),43.787651,-79.351654,M2Z 3C1
+477,2014,Shooting,York University Heights (27),43.762245,-79.500519,M3J 1V6
+478,2014,Stabbing,Mount Olive-Silverstone-Jamestown (2),43.746815,-79.583809,M9V 3B2
+479,2014,Stabbing,Danforth (66),43.681713,-79.331352,M4J 1M6
+480,2014,Shooting,Scarborough Village (139),43.742836,-79.220558,M1J 2G2
+481,2014,Stabbing,Oakwood Village (107),43.696072,-79.445000,M6E 2H4
+482,2014,Shooting,Junction Area (90),43.678902,-79.474075,NOTAVAIL
+483,2014,Shooting,Kingsview Village-The Westway (6),43.700695,-79.545532,M9P 3M7
+484,2014,Shooting,Kingsview Village-The Westway (6),43.700695,-79.545532,M9P 3M7
+485,2014,Shooting,Regent Park (72),43.657223,-79.363754,M5A 1W7
+486,2006,Shooting,Rouge (131),43.829815,-79.226456,NOTAVAIL
+487,2014,Other,Don Valley Village (47),43.790741,-79.361153,M2J 2W3
+488,2014,Other,Dovercourt-Wallace Emerson-Junction (93),43.666431,-79.438187,M6H 3G4
+489,2014,Shooting,Downsview-Roding-CFB (26),43.742870,-79.486000,M3M 2W9
+490,2014,Shooting,Beechborough-Greenbrook (112),43.690979,-79.471512,M6M 1T9
+491,2013,Shooting,Moss Park (73),43.656502,-79.366951,M5A 1W7
+492,2013,Other,Rockcliffe-Smythe (111),43.678806,-79.482903,NOTAVAIL
+493,2013,Stabbing,Bay Street Corridor (76),43.650444,-79.384651,NOTAVAIL
+494,2013,Other,Kensington-Chinatown (78),43.655140,-79.398926,M5T 2G7
+495,2013,Other,Regent Park (72),43.659763,-79.364502,M5A 1Y1
+496,2013,Other,Wychwood (94),43.673840,-79.422386,M6G 2B4
+497,2013,Shooting,East End-Danforth (62),43.678886,-79.298027,M4E 1R7
+498,2013,Stabbing,Lawrence Park North (105),43.730171,-79.395271,M4N 1X2
+499,2013,Other,Pelmo Park-Humberlea (23),43.711510,-79.510101,M6L 1N4
+500,2013,Other,Milliken (130),43.824276,-79.272194,M1V 3H7
+501,2013,Other,Bathurst Manor (34),43.753071,-79.450218,M3H 2T5
+502,2008,Shooting,Malvern (132),43.813580,-79.230560,NOTAVAIL
+503,2011,Other,Clairlea-Birchmount (120),43.712563,-79.263367,M1K 1E7
+504,2008,Shooting,Woburn (137),43.763733,-79.211418,M1G 1P1
+505,2011,Other,Little Portugal (84),43.641239,-79.422852,M6J 3S7
+506,2008,Other,Trinity-Bellwoods (81),43.647747,-79.409500,M6J 2K6
+507,2013,Shooting,Humber Summit (21),43.768456,-79.542305,M9L 2T6
+508,2008,Other,Bathurst Manor (34),43.751667,-79.456749,M3H 2T5
+509,2013,Shooting,Willowdale East (51),43.769730,-79.410805,M2N 6T3
+510,2008,Shooting,Yorkdale-Glen Park (31),43.719116,-79.448227,M6A 2R1
+511,2013,Shooting,Mount Olive-Silverstone-Jamestown (2),43.750977,-79.585831,M9V 5C7
+512,2008,Stabbing,Etobicoke West Mall (13),43.652397,-79.572212,M9C 1G8
+513,2009,Other,Rockcliffe-Smythe (111),43.683735,-79.482460,M6L 2H4
+514,2008,Shooting,South Riverdale (70),43.664845,-79.341606,M4M 2S1
+515,2009,Shooting,Mimico (includes Humber Bay Shores) (17),43.610455,-79.494583,M8V 1R4
+516,2014,Stabbing,Thorncliffe Park (55),43.708019,-79.341385,NOTAVAIL
+517,2008,Stabbing,Dovercourt-Wallace Emerson-Junction (93),43.662067,-79.445862,NOTAVAIL
+518,2009,Shooting,Eglinton East (138),43.735584,-79.253189,M1K 4V4
+519,2014,Stabbing,Thorncliffe Park (55),43.708019,-79.341385,M4H 1C5
+520,2008,Stabbing,Scarborough Village (139),43.745106,-79.219727,M1J 3P2
+521,2009,Shooting,West Humber-Clairville (1),43.738060,-79.593002,M9V 3L5
+522,2014,Stabbing,Thorncliffe Park (55),43.708019,-79.341385,M4H 1C5
+523,2008,Stabbing,Junction Area (90),43.667866,-79.465614,NOTAVAIL
+524,2009,Shooting,Mount Olive-Silverstone-Jamestown (2),43.746319,-79.588165,M9V 2C9
+525,2014,Shooting,Bay Street Corridor (76),43.655243,-79.386063,M5G 1C7
+526,2008,Other,Scarborough Village (139),43.745106,-79.219727,M1J 3P2
+527,2009,Shooting,Blake-Jones (69),43.672451,-79.338188,M4J 1A7
+528,2014,Stabbing,North St.James Town (74),43.667297,-79.373779,M4X 1P8
+529,2008,Stabbing,Banbury-Don Mills (42),43.731266,-79.335190,M3C 1M1
+530,2009,Shooting,Moss Park (73),43.650394,-79.367889,M5A 2P7
+531,2014,Stabbing,Bendale (127),43.745525,-79.254822,M1J 1C2
+532,2008,Other,Banbury-Don Mills (42),43.731266,-79.335190,NOTAVAIL
+533,2009,Shooting,Bayview Woods-Steeles (49),43.791298,-79.369125,M2H 1S9
+534,2014,Stabbing,High Park North (88),43.656334,-79.468224,NOTAVAIL
+535,2008,Shooting,Malvern (132),43.810551,-79.213936,M1B 3G5
+536,2009,Other,Kennedy Park (124),43.717567,-79.272667,M1K 0A4
+537,2014,Other,Little Portugal (84),43.643017,-79.424797,M6J 1J5
+538,2008,Shooting,Tam O'Shanter-Sullivan (118),43.784115,-79.297165,M1T 2V3
+539,2009,Shooting,South Parkdale (85),43.633953,-79.434776,M6K 1C2
+540,2015,Stabbing,Cabbagetown-South St.James Town (71),43.662422,-79.376717,M5B 1M1
+541,2008,Shooting,Clairlea-Birchmount (120),43.716675,-79.299286,M4B 2J0
+542,2009,Other,Church-Yonge Corridor (75),43.650669,-79.377243,NOTAVAIL
+543,2015,Stabbing,Newtonbrook East (50),43.781338,-79.412674,M2N 4P9
+544,2008,Shooting,East End-Danforth (62),43.685982,-79.306396,M4C 1K4
+545,2009,Shooting,York University Heights (27),43.749611,-79.487595,M3J 1P5
+546,2015,Shooting,Yorkdale-Glen Park (31),43.720859,-79.449371,M6A 2R1
+547,2008,Shooting,Niagara (82),43.645016,-79.409477,M6J 2L5
+548,2008,Shooting,Niagara (82),43.645016,-79.409477,M6J 2L5
+549,2008,Shooting,Rockcliffe-Smythe (111),43.671673,-79.493752,NOTAVAIL
+550,2008,Other,Clairlea-Birchmount (120),43.700085,-79.286728,M1L 3H1
+551,2008,Other,Taylor-Massey (61),43.696526,-79.297310,M4C 5M9
+552,2008,Shooting,Wexford/Maryvale (119),43.751499,-79.313026,M1R 1T6
+553,2008,Stabbing,Rosedale-Moore Park (98),43.689133,-79.394569,M4T 1Z2
+554,2008,Shooting,Morningside (135),43.784832,-79.195435,M1C 0C7
+555,2008,Shooting,Rouge (131),43.797863,-79.152779,M1B 4X3
+556,2008,Shooting,Alderwood (20),43.606293,-79.545982,M8W 3T7
+557,2008,Shooting,Alderwood (20),43.606293,-79.545982,M8W 3T7
+558,2008,Shooting,Alderwood (20),43.606293,-79.545982,M8W 3T7
+559,2007,Stabbing,Mount Olive-Silverstone-Jamestown (2),43.753620,-79.587097,M9V 5C7
+560,2007,Stabbing,Rouge (131),43.822872,-79.217918,M1X 1Y3
+561,2007,Shooting,Rouge (131),43.797649,-79.153854,M1B 4X3
+562,2008,Shooting,Pelmo Park-Humberlea (23),43.714741,-79.510559,NOTAVAIL
+563,2008,Shooting,Beechborough-Greenbrook (112),43.689671,-79.477181,M6M 1T9
+564,2008,Stabbing,Moss Park (73),43.656166,-79.370125,M5A 1Z9
+565,2008,Other,Roncesvalles (86),43.642963,-79.436264,M6K 3L2
+566,2008,Stabbing,Woodbine Corridor (64),43.670181,-79.313240,M4L 3G8
+567,2008,Shooting,Agincourt South-Malvern West (128),43.787396,-79.257278,M1S 3E5
+568,2008,Shooting,Willowdale West (37),43.765469,-79.440933,M2R 3V3
+569,2008,Shooting,Malvern (132),43.806564,-79.225944,M1B 2L2
+570,2008,Other,West Humber-Clairville (1),43.716534,-79.592613,M9W 6K5
+571,2008,Other,Waterfront Communities-The Island (77),43.649212,-79.356186,M5A 3C4
+572,2008,Stabbing,Bayview Village (52),43.765949,-79.379173,M2K 1C3
+573,2008,Shooting,Beechborough-Greenbrook (112),43.691364,-79.469719,M6M 3P1
+574,2008,Stabbing,Humber Summit (21),43.752094,-79.542381,M9M 2C7
+575,2008,Shooting,Maple Leaf (29),43.722557,-79.481270,M3M 1J8
+576,2008,Shooting,Black Creek (24),43.761921,-79.518822,M3N 2X9
+577,2008,Stabbing,Agincourt South-Malvern West (128),43.781738,-79.287430,M1T 3L4
+578,2008,Shooting,Glenfield-Jane Heights (25),43.755474,-79.514191,NOTAVAIL
+579,2008,Shooting,Humber Heights-Westmount (8),43.683964,-79.511459,M6M 2E6
+580,2008,Other,Downsview-Roding-CFB (26),43.734715,-79.490219,M3M 0A8
+581,2008,Shooting,Downsview-Roding-CFB (26),43.719833,-79.513802,M3L 1A2
+582,2008,Other,Waterfront Communities-The Island (77),43.635677,-79.398361,M5V 3N2
+583,2008,Stabbing,Rouge (131),43.807560,-79.166779,M1B 2K5
+584,2008,Stabbing,Rouge (131),43.807560,-79.166779,M1B 2K5
+585,2008,Shooting,Scarborough Village (139),43.741795,-79.225166,M1J 3P2
+586,2008,Shooting,South Riverdale (70),43.663242,-79.330223,M4L 1C2
+587,2008,Shooting,Clanton Park (33),43.754097,-79.440124,M3H 2S1
+588,2008,Other,Kensington-Chinatown (78),43.651440,-79.399918,M5T 1H5
+589,2008,Stabbing,Morningside (135),43.770813,-79.217941,M1G 3B5
+590,2008,Stabbing,Morningside (135),43.770813,-79.217941,M1G 3B5
+591,2008,Stabbing,Morningside (135),43.770813,-79.217941,M1G 3B5
+592,2008,Other,Eringate-Centennial-West Deane (11),43.653030,-79.572548,NOTAVAIL
+593,2008,Shooting,Wexford/Maryvale (119),43.742145,-79.309792,M1R 1T6
+594,2008,Stabbing,New Toronto (18),43.601540,-79.508896,M8V 3Z2
+595,2008,Stabbing,Beechborough-Greenbrook (112),43.696602,-79.470932,M6M 3X7
+596,2008,Other,Ionview (125),43.732864,-79.278900,M1K 1S4
+597,2009,Shooting,Humber Summit (21),43.751442,-79.552986,M9L 1X9
+598,2009,Shooting,Banbury-Don Mills (42),43.740944,-79.355278,M3B 1H4
+599,2009,Other,Flemingdon Park (44),43.717743,-79.326553,M3C 3E7
+600,2009,Stabbing,Weston-Pellam Park (91),43.670841,-79.461311,NOTAVAIL
+601,2009,Shooting,Keelesdale-Eglinton West (110),43.688522,-79.474358,M6M 1T9
+602,2009,Shooting,Weston (113),43.698345,-79.511314,M9N 3B3
+603,2009,Shooting,Morningside (135),43.785690,-79.205704,M1E 4E6
+604,2009,Shooting,Black Creek (24),43.766045,-79.511673,M3N 2N6
+605,2009,Shooting,Beechborough-Greenbrook (112),43.689671,-79.477181,M6M 1T9
+606,2009,Shooting,Dorset Park (126),43.753231,-79.276283,M1P 2L1
+607,2009,Stabbing,Black Creek (24),43.755932,-79.524284,NOTAVAIL
+608,2009,Stabbing,Kennedy Park (124),43.725819,-79.262543,M1K 3G2
+609,2009,Stabbing,South Riverdale (70),43.665863,-79.334175,M4M 1L4
+610,2009,Shooting,Keelesdale-Eglinton West (110),43.683998,-79.472420,M6M 1T9
+611,2009,Shooting,Mount Dennis (115),43.684479,-79.498825,NOTAVAIL
+612,2009,Shooting,Lambton Baby Point (114),43.663891,-79.503487,NOTAVAIL
+613,2009,Stabbing,Dufferin Grove (83),43.649986,-79.437012,M6K 1V2
+614,2009,Shooting,Rockcliffe-Smythe (111),43.668007,-79.500458,NOTAVAIL
+615,2009,Stabbing,South Riverdale (70),43.658497,-79.351555,M4M 1G3
+616,2009,Stabbing,Rockcliffe-Smythe (111),43.683735,-79.482460,M6L 2H4
+617,2009,Stabbing,Kingsview Village-The Westway (6),43.695797,-79.552155,M9R
+618,2009,Other,Yorkdale-Glen Park (31),43.715733,-79.467629,M6A 2W5
+619,2009,Stabbing,South Riverdale (70),43.645313,-79.352478,M5A 1A4
+620,2009,Stabbing,South Riverdale (70),43.645313,-79.352478,M5A 1A4
+621,2009,Other,Greenwood-Coxwell (65),43.668335,-79.320183,M4L 1Z6
+622,2009,Other,Glenfield-Jane Heights (25),43.734569,-79.511925,M3L 2E8
+623,2009,Other,Dorset Park (126),43.771576,-79.285950,M1P 4N4
+624,2009,Shooting,Rouge (131),43.793819,-79.128097,M1C 2Z2
+625,2009,Stabbing,Tam O'Shanter-Sullivan (118),43.783596,-79.299347,M1T 2M5
+626,2009,Shooting,Annex (95),43.665916,-79.407471,M5S 1X4
+627,2009,Shooting,Annex (95),43.671902,-79.395432,M5R 3J8
+628,2009,Shooting,West Humber-Clairville (1),43.755016,-79.606369,M9V 5B4
+629,2017,Stabbing,Weston (113),43.701042,-79.519402,M9N 1X4
+630,2009,Shooting,Wychwood (94),43.674683,-79.431488,M6G 2C3
+631,2017,Shooting,Rouge (131),43.813343,-79.201775,M1B 5B5
+632,2015,Shooting,Kensington-Chinatown (78),43.652313,-79.406021,M5T 2S6
+633,2009,Shooting,Playter Estates-Danforth (67),43.679409,-79.346374,M4K 1R3
+634,2017,Shooting,Scarborough Village (139),43.741795,-79.225166,M1J 3P2
+635,2015,Other,Clairlea-Birchmount (120),43.712559,-79.262207,M1K 1E7
+636,2009,Shooting,York University Heights (27),43.751942,-79.496696,M3J 1A7
+637,2017,Other,Church-Yonge Corridor (75),43.666706,-79.381363,M4Y 2C6
+638,2015,Shooting,Danforth (66),43.683945,-79.320892,M4C 1H8
+639,2009,Stabbing,Annex (95),43.672691,-79.399147,M5S 1V4
+640,2009,Other,North Riverdale (68),43.665050,-79.354340,NOTAVAIL
+641,2017,Other,Centennial Scarborough (133),43.776463,-79.150543,M1C 1W7
+642,2009,Stabbing,Annex (95),43.665916,-79.407471,M5S 1X4
+643,2015,Shooting,Danforth (66),43.683945,-79.320892,M4C 1H8
+644,2015,Shooting,Kingsview Village-The Westway (6),43.701328,-79.548676,M9R 1V8
+645,2015,Stabbing,Willowridge-Martingrove-Richview (7),43.676342,-79.570412,M9R 3V7
+646,2015,Other,Mimico (includes Humber Bay Shores) (17),43.620514,-79.483269,M8V 4C5
+647,2015,Shooting,Mount Olive-Silverstone-Jamestown (2),43.732510,-79.586418,M9V 3M5
+648,2015,Other,Corso Italia-Davenport (92),43.678436,-79.440857,M6E 3K4
+649,2017,Shooting,Regent Park (72),43.659443,-79.366013,M5A 3A3
+650,2015,Stabbing,Birchcliffe-Cliffside (122),43.692280,-79.263382,M1N 1S2
+651,2010,Other,North Riverdale (68),43.665050,-79.354340,M4M 2B3
+652,2017,Other,Malvern (132),43.811859,-79.211212,M1B 3A9
+653,2015,Other,Taylor-Massey (61),43.695133,-79.303482,M4C 5A2
+654,2009,Shooting,Oakwood Village (107),43.691544,-79.438904,M6C 2R1
+655,2017,Shooting,Waterfront Communities-The Island (77),43.647839,-79.370789,NOTAVAIL
+656,2015,Stabbing,West Hill (136),43.764870,-79.184883,M1E 4S6
+657,2009,Shooting,Kingsview Village-The Westway (6),43.688229,-79.550636,M9R 1K8
+658,2016,Other,Church-Yonge Corridor (75),43.667374,-79.381638,M4Y 2C7
+659,2018,Other,Willowridge-Martingrove-Richview (7),43.681500,-79.563202,M9R 1H4
+660,2015,Shooting,Danforth (66),43.683121,-79.324768,M4C 1H8
+661,2009,Shooting,Bay Street Corridor (76),43.665646,-79.387726,M5S 3A5
+662,2016,Other,Weston (113),43.705143,-79.529404,M9N 1X7
+663,2018,Shooting,Humber Heights-Westmount (8),43.694614,-79.517342,M9N 1W2
+664,2015,Other,Dovercourt-Wallace Emerson-Junction (93),43.665127,-79.454155,NOTAVAIL
+665,2009,Shooting,Bendale (127),43.768944,-79.266502,M1P 3S4
+666,2016,Shooting,Humbermede (22),43.742729,-79.540337,M9M 2V9
+667,2004,Stabbing,Downsview-Roding-CFB (26),43.720917,-79.508636,M3M 1V1
+668,2015,Shooting,Dovercourt-Wallace Emerson-Junction (93),43.659782,-79.447746,NOTAVAIL
+669,2009,Shooting,Rustic (28),43.715744,-79.504761,NOTAVAIL
+670,2016,Shooting,Mount Pleasant West (104),43.704571,-79.396797,M4S 2A7
+671,2018,Shooting,Eringate-Centennial-West Deane (11),43.659401,-79.568420,M9B 2R5
+672,2015,Stabbing,Woburn (137),43.757725,-79.235268,M1H 1S2
+673,2009,Other,North St.James Town (74),43.667297,-79.373779,M4X 1P8
+674,2016,Shooting,University (79),43.657211,-79.404076,M5T 1S3
+675,2018,Shooting,Eringate-Centennial-West Deane (11),43.659401,-79.568420,M9B 2R5
+676,2015,Shooting,Woburn (137),43.757725,-79.235268,M1H 1S2
+677,2009,Shooting,Humber Summit (21),43.756695,-79.569443,M9L 2E3
+678,2016,Shooting,University (79),43.657211,-79.404076,M5T 1S3
+679,2018,Stabbing,Church-Yonge Corridor (75),43.663906,-79.384155,M4Y 1X9
+680,2015,Stabbing,Woodbine-Lumsden (60),43.689480,-79.312408,M4C 1K3
+681,2009,Shooting,Weston (113),43.703011,-79.525444,M9N 1X4
+682,2016,Other,Little Portugal (84),43.649132,-79.437943,M6K 1V2
+683,2017,Other,Thorncliffe Park (55),43.708019,-79.341385,M4H 1C5
+684,2017,Other,Thorncliffe Park (55),43.708019,-79.341385,M4H 1C5
+685,2016,Other,Thorncliffe Park (55),43.708019,-79.341385,NOTAVAIL
+686,2017,Other,St.Andrew-Windfields (40),43.757893,-79.382179,M2L 2K4
+687,2017,Other,St.Andrew-Windfields (40),43.757893,-79.382179,M2L 2K4
+688,2018,Shooting,Bayview Village (52),43.780727,-79.387390,M2K 1W4
+689,2018,Shooting,Highland Creek (134),43.782192,-79.172447,M1C 1B6
+690,2018,Other,Casa Loma (96),43.680107,-79.417091,M6G 2H2
+691,2018,Shooting,Black Creek (24),43.768829,-79.520401,M3N 2K7
+692,2018,Stabbing,Parkwoods-Donalda (45),43.761753,-79.347229,M3B 3H2
+693,2018,Shooting,Mount Olive-Silverstone-Jamestown (2),43.746319,-79.588165,M9V 2C9
+694,2018,Shooting,Humber Heights-Westmount (8),43.692627,-79.517494,M9P 1E9
+695,2018,Shooting,Yorkdale-Glen Park (31),43.718262,-79.455681,M6A 3B2
+696,2018,Shooting,Yorkdale-Glen Park (31),43.718262,-79.455681,M6A 3B2
+697,2018,Shooting,Wexford/Maryvale (119),43.764519,-79.318161,M3A 2C7
+698,2018,Stabbing,Old East York (58),43.694725,-79.343117,M4J 3S2
+699,2018,Stabbing,Kennedy Park (124),43.727463,-79.252602,NOTAVAIL
+700,2018,Other,Willowdale East (51),43.759949,-79.410561,M2N 6G5
+701,2018,Other,Willowdale East (51),43.759949,-79.410561,M2N 6G5
+702,2018,Other,Willowdale East (51),43.759949,-79.410561,M2N 6G5
+703,2018,Other,Willowdale East (51),43.759949,-79.410561,M2N 6G5
+704,2018,Other,Willowdale East (51),43.759949,-79.410561,M2N 6G5
+705,2018,Other,Willowdale East (51),43.759949,-79.410561,M2N 6G5
+706,2018,Other,Willowdale East (51),43.759949,-79.410561,M2N 6G5
+707,2018,Other,Willowdale East (51),43.759949,-79.410561,M2N 6G5
+708,2018,Other,Willowdale East (51),43.759949,-79.410561,M2N 6G5
+709,2018,Other,Willowdale East (51),43.759949,-79.410561,M2N 6G5
+710,2018,Stabbing,Birchcliffe-Cliffside (122),43.674774,-79.278748,M4E 1H9
+711,2018,Shooting,Princess-Rosethorn (10),43.673397,-79.550163,M9B 2Y7
+712,2018,Shooting,Morningside (135),43.775425,-79.216194,M1G 3B5
+713,2018,Shooting,Bay Street Corridor (76),43.647335,-79.379730,NOTAVAIL
+714,2018,Stabbing,Annex (95),43.670311,-79.405304,M5R 2S7
+715,2018,Other,Old East York (58),43.691372,-79.349548,M4K 2T3
+716,2018,Stabbing,East End-Danforth (62),43.678127,-79.301178,M4L 1V3
+717,2018,Shooting,Malvern (132),43.804497,-79.224228,M1B 2P3
+718,2018,Shooting,Annex (95),43.671360,-79.390198,M5R 1C1
+719,2018,Shooting,Church-Yonge Corridor (75),43.656330,-79.380928,M5B 1R8
+720,2018,Shooting,New Toronto (18),43.602589,-79.509399,M8V 3Z2
+721,2018,Stabbing,Little Portugal (84),43.647820,-79.432915,NOTAVAIL
+722,2018,Other,Niagara (82),43.645016,-79.409477,M6J 2L5
+723,2018,Other,Roncesvalles (86),43.644207,-79.435364,M6K 1L8
+724,2018,Stabbing,Cliffcrest (123),43.719192,-79.249176,M1M 1T2
+725,2018,Other,Rosedale-Moore Park (98),43.670227,-79.386787,M4Y 2B2
+726,2018,Shooting,Englemount-Lawrence (32),43.719486,-79.443909,M6A 2N4
+727,2018,Shooting,Thistletown-Beaumond Heights (3),43.738457,-79.576439,M9V 1T1
+728,2018,Shooting,Thistletown-Beaumond Heights (3),43.738457,-79.576439,M9V 1T1
+729,2018,Stabbing,Mount Olive-Silverstone-Jamestown (2),43.737454,-79.590126,M9V 3R4
+730,2018,Shooting,Moss Park (73),43.658295,-79.371033,M5A 1Z9
+731,2018,Shooting,Kensington-Chinatown (78),43.649353,-79.393700,M5V 2L6
+732,2018,Shooting,Kensington-Chinatown (78),43.649353,-79.393700,M5V 2L6
+733,2018,Stabbing,Danforth (66),43.681484,-79.332382,M4J 1M3
+734,2018,Shooting,Kensington-Chinatown (78),43.655235,-79.402336,M5T 1M1
+735,2018,Shooting,Black Creek (24),43.767212,-79.514770,M3N 2K7
+736,2018,Shooting,Black Creek (24),43.769165,-79.518761,M3N 2S6
+737,2018,Other,Clairlea-Birchmount (120),43.704384,-79.288559,NOTAVAIL
+738,2018,Shooting,Playter Estates-Danforth (67),43.677559,-79.351967,M4K 1P1
+739,2018,Stabbing,South Riverdale (70),43.656498,-79.347557,M4M 1B7
+740,2018,Shooting,Playter Estates-Danforth (67),43.677559,-79.351967,M4K 1P1
+741,2018,Shooting,Humber Summit (21),43.754711,-79.568871,M9L 2E3
+742,2012,Other,Church-Yonge Corridor (75),43.663700,-79.380112,M4Y 1X7
+743,2015,Other,Woburn (137),43.751030,-79.222259,M1H 2A2
+744,2010,Other,Thorncliffe Park (55),43.708019,-79.341385,M4H 1C5
+745,2010,Other,Thorncliffe Park (55),43.708019,-79.341385,M4H 1C5
+746,2015,Other,Thorncliffe Park (55),43.708019,-79.341385,M4H 1C5
+747,2018,Shooting,Mount Olive-Silverstone-Jamestown (2),43.732025,-79.589424,M9V 4N4
+748,2018,Stabbing,Kingsview Village-The Westway (6),43.692574,-79.555534,M9R 2K5
+749,2018,Stabbing,Islington-City Centre West (14),43.610126,-79.556908,M9C 1B8
+750,2018,Shooting,Moss Park (73),43.652698,-79.366211,NOTAVAIL
+751,2018,Shooting,Danforth (66),43.679794,-79.340607,M4K 1P6
+752,2018,Shooting,Mount Dennis (115),43.691303,-79.500893,M6M 2E1
+753,2018,Other,New Toronto (18),43.601540,-79.508896,M8V 3Z2
+754,2018,Stabbing,Weston (113),43.700161,-79.516205,M9N 2B3
+755,2018,Other,Rouge (131),43.812973,-79.243080,M1B 2W4
+756,2018,Other,Regent Park (72),43.661892,-79.358459,M5A 3N9
+757,2018,Stabbing,Islington-City Centre West (14),43.610126,-79.556908,M9C 1B8
+758,2018,Shooting,Clairlea-Birchmount (120),43.701515,-79.275543,M1L 3Z3
+759,2018,Shooting,Malvern (132),43.809147,-79.210167,M1B 1M9
+760,2018,Shooting,Niagara (82),43.635738,-79.403290,M5V 1A4
+761,2018,Shooting,Weston-Pellam Park (91),43.674015,-79.463173,NOTAVAIL
+762,2018,Other,Roncesvalles (86),43.644207,-79.435364,M6K 1L8
+763,2018,Stabbing,Willowridge-Martingrove-Richview (7),43.682762,-79.569763,M9R 3V7
+764,2018,Shooting,Eglinton East (138),43.741611,-79.232613,M1M 3R2
+765,2018,Shooting,Agincourt South-Malvern West (128),43.788845,-79.262489,NOTAVAIL
+766,2018,Stabbing,Newtonbrook East (50),43.788982,-79.417824,M2M 3W2
+767,2018,Shooting,Henry Farm (53),43.772690,-79.344818,M2J 1M4
+768,2018,Shooting,Regent Park (72),43.659271,-79.363495,M5A 2B7
+769,2009,Shooting,Downsview-Roding-CFB (26),43.717705,-79.523048,M9M 1A7
+770,2010,Shooting,Malvern (132),43.811859,-79.211212,M1B 3A9
+771,2009,Stabbing,Runnymede-Bloor West Village (89),43.665608,-79.498611,NOTAVAIL
+772,2010,Other,Kensington-Chinatown (78),43.650265,-79.398163,M5T 1E2
+773,2010,Stabbing,Wexford/Maryvale (119),43.762024,-79.317085,M3A 2X2
+774,2009,Other,University (79),43.658260,-79.398201,M5T 1R8
+775,2009,Shooting,Junction Area (90),43.665565,-79.478958,NOTAVAIL
+776,2010,Stabbing,Cabbagetown-South St.James Town (71),43.662918,-79.374352,M5A 2K6
+777,2011,Stabbing,Kensington-Chinatown (78),43.648067,-79.399673,M5V 2B4
+778,2011,Shooting,Ionview (125),43.732864,-79.278900,M1K 1S4
+779,2011,Other,West Hill (136),43.762016,-79.194740,M1E 5B3
+780,2016,Shooting,Glenfield-Jane Heights (25),43.737808,-79.520134,M3N 1C2
+781,2011,Other,Annex (95),43.674728,-79.396606,M5R 2H6
+782,2015,Stabbing,Church-Yonge Corridor (75),43.651695,-79.378982,NOTAVAIL
+783,2016,Other,Moss Park (73),43.650467,-79.371910,M5E 0A1
+784,2015,Other,Rockcliffe-Smythe (111),43.671673,-79.493752,NOTAVAIL
+785,2016,Shooting,Bendale (127),43.752975,-79.258072,M1P 2S7
+786,2015,Shooting,Little Portugal (84),43.641132,-79.423729,M6J 3S7
+787,2011,Other,Forest Hill North (102),43.704624,-79.438500,M6E 3B5
+788,2016,Stabbing,Church-Yonge Corridor (75),43.669415,-79.382492,M4Y 2T0
+789,2015,Shooting,Little Portugal (84),43.641132,-79.423729,M6J 3S7
+790,2011,Other,North St.James Town (74),43.666286,-79.378349,M4Y 1H2
+791,2016,Other,Blake-Jones (69),43.677151,-79.334877,M4J 1K8
+792,2015,Stabbing,Cliffcrest (123),43.729393,-79.229729,M1M 1P2
+793,2010,Shooting,Brookhaven-Amesbury (30),43.698422,-79.502609,M9N 2S4
+794,2016,Other,Moss Park (73),43.657307,-79.373459,M5A 2L3
+795,2015,Other,Dovercourt-Wallace Emerson-Junction (93),43.668812,-79.447296,M6H 3Z6
+796,2011,Shooting,Humber Summit (21),43.750652,-79.549072,M9M 2C7
+797,2016,Other,North Riverdale (68),43.666161,-79.352913,M4M 2B5
+798,2015,Stabbing,North St.James Town (74),43.671356,-79.372322,M4Y 0A4
+799,2011,Stabbing,York University Heights (27),43.749611,-79.487595,NOTAVAIL
+800,2016,Shooting,Niagara (82),43.641914,-79.412705,M5V 3H5
+801,2015,Shooting,Niagara (82),43.632687,-79.424927,M6K 1A9
+802,2011,Shooting,Beechborough-Greenbrook (112),43.693413,-79.483269,M6M 5E6
+803,2016,Other,Scarborough Village (139),43.739586,-79.222824,M1J 2G4
+804,2015,Shooting,Niagara (82),43.632687,-79.424927,M6K 1A9
+805,2011,Shooting,Woburn (137),43.759609,-79.221199,M1G 1P7
+806,2016,Other,Scarborough Village (139),43.739586,-79.222824,M1J 2G4
+807,2015,Stabbing,Weston-Pellam Park (91),43.676575,-79.463890,NOTAVAIL
+808,2011,Shooting,Weston (113),43.697304,-79.509460,M9N 3B3
+809,2016,Other,Scarborough Village (139),43.739586,-79.222824,M1J 2G4
+810,2015,Shooting,Bay Street Corridor (76),43.654320,-79.383202,M5G 2C3
+811,2011,Shooting,Malvern (132),43.800617,-79.214729,M1B 1M4
+812,2016,Shooting,South Riverdale (70),43.660065,-79.352310,M4M 1G3
+813,2015,Shooting,Moss Park (73),43.658295,-79.371033,NOTAVAIL
+814,2011,Shooting,Lambton Baby Point (114),43.664887,-79.501503,NOTAVAIL
+815,2011,Other,Dovercourt-Wallace Emerson-Junction (93),43.667221,-79.427856,M6G 3V5
+816,2011,Shooting,Kingsview Village-The Westway (6),43.695797,-79.552155,M9R
+817,2011,Other,South Parkdale (85),43.636929,-79.437271,M6K 1C2
+818,2011,Shooting,Eglinton East (138),43.734810,-79.256836,M1K 2R5
+819,2011,Shooting,The Beaches (63),43.667248,-79.312592,M4L 1G5
+820,2011,Other,York University Heights (27),43.765381,-79.502670,M3J 1V6
+821,2011,Other,Danforth (66),43.686600,-79.324966,M4C 3C9
+822,2011,Shooting,Rexdale-Kipling (4),43.713322,-79.559692,M9W 1N7
+823,2011,Shooting,L'Amoreaux (117),43.793110,-79.331413,M1W 2T4
+824,2010,Shooting,Rustic (28),43.715744,-79.504761,M6L 1N4
+825,2011,Shooting,Mount Olive-Silverstone-Jamestown (2),43.739082,-79.592819,M9V 3L5
+826,2010,Other,The Beaches (63),43.663399,-79.309753,M4L 3R3
+827,2010,Other,Eglinton East (138),43.738136,-79.237938,M1J 2E3
+828,2011,Shooting,Glenfield-Jane Heights (25),43.752510,-79.516487,NOTAVAIL
+829,2011,Stabbing,Wexford/Maryvale (119),43.728893,-79.304382,M4A 1L9
+830,2011,Stabbing,Scarborough Village (139),43.742489,-79.222107,M1J 2G2
+831,2011,Shooting,Islington-City Centre West (14),43.652653,-79.563225,M9B 2E4
+832,2011,Other,Mount Dennis (115),43.688309,-79.493141,M6M 5C4
+833,2011,Shooting,Mount Dennis (115),43.691208,-79.507980,M6M 5H6
+834,2011,Stabbing,Downsview-Roding-CFB (26),43.726284,-79.483704,M3M 1J8
+835,2011,Shooting,York University Heights (27),43.743107,-79.494240,M3J 3C8
+836,2011,Shooting,Clanton Park (33),43.741222,-79.436447,M3H 1S8
+837,2011,Shooting,Lambton Baby Point (114),43.664887,-79.501503,NOTAVAIL
+838,2011,Other,Woburn (137),43.772530,-79.249855,M1H 2P4
+839,2011,Shooting,Clairlea-Birchmount (120),43.707001,-79.268127,M1K 1N8
+840,2011,Shooting,Trinity-Bellwoods (81),43.647186,-79.415939,M6J 2X5
+841,2010,Shooting,West Hill (136),43.765450,-79.199470,M1E 1X2
+842,2011,Shooting,Clairlea-Birchmount (120),43.716675,-79.299286,NOTAVAIL
+843,2011,Shooting,Taylor-Massey (61),43.694382,-79.300606,M4C 5A2
+844,2010,Other,Wexford/Maryvale (119),43.766548,-79.313377,M1R 2L2
+845,2011,Shooting,Black Creek (24),43.763435,-79.509880,M3N 1N3
+846,2011,Shooting,Etobicoke West Mall (13),43.648502,-79.576164,M9C 3S8
+847,2011,Shooting,Downsview-Roding-CFB (26),43.730045,-79.508614,M3M 1S5
+848,2010,Other,High Park-Swansea (87),43.655033,-79.453445,NOTAVAIL
+849,2011,Shooting,South Riverdale (70),43.652348,-79.322922,M4M 3H9
+850,2011,Stabbing,Newtonbrook East (50),43.782501,-79.407463,M2N 4R4
+851,2011,Stabbing,Bedford Park-Nortown (39),43.739376,-79.423866,M5M 3B1
+852,2010,Other,Moss Park (73),43.654526,-79.369461,M5A 1S2
+853,2011,Shooting,Morningside (135),43.764053,-79.205627,M1G 1P1
+854,2011,Stabbing,Kensington-Chinatown (78),43.652554,-79.399872,M5T 2K2
+855,2011,Other,Regent Park (72),43.662418,-79.358688,M5A 2B7
+856,2011,Other,Rustic (28),43.702881,-79.503838,NOTAVAIL
+857,2011,Other,Malvern (132),43.791912,-79.230370,M1B 1M5
+858,2010,Shooting,Oakwood Village (107),43.684906,-79.433777,M6C 3N9
+859,2010,Stabbing,L'Amoreaux (117),43.797489,-79.312317,M1W 2R5
+860,2010,Shooting,Beechborough-Greenbrook (112),43.691227,-79.470398,M6M 3P1
+861,2010,Other,Brookhaven-Amesbury (30),43.699554,-79.502892,M9N 2S4
+862,2012,Shooting,Clairlea-Birchmount (120),43.727947,-79.282761,M1L 2M3
+863,2012,Stabbing,Niagara (82),43.638653,-79.417107,M6K 3P8
+864,2012,Other,Leaside-Bennington (56),43.705360,-79.365494,M4G 3A1
+865,2012,Shooting,Ionview (125),43.729965,-79.277862,M1K 1S4
+866,2012,Shooting,Malvern (132),43.805580,-79.220924,M1B 1B3
+867,2016,Shooting,South Parkdale (85),43.637348,-79.425339,M6K 3E3
+868,2016,Stabbing,York University Heights (27),43.768520,-79.500557,M3J 0K9
+869,2016,Stabbing,Bendale (127),43.774399,-79.253548,M1P 0B2
+870,2016,Other,Weston-Pellam Park (91),43.670212,-79.457031,NOTAVAIL
+871,2016,Shooting,West Humber-Clairville (1),43.734100,-79.609917,M9W 6N5
+872,2014,Other,Church-Yonge Corridor (75),43.654324,-79.378769,NOTAVAIL
+873,2016,Shooting,Weston (113),43.700603,-79.517792,M9N 1W2
+874,2015,Shooting,Rustic (28),43.714138,-79.504112,M6L 1N4
+875,2016,Shooting,West Humber-Clairville (1),43.747040,-79.600159,M9V 3J4
+876,2015,Shooting,Mount Olive-Silverstone-Jamestown (2),43.732510,-79.586418,M9V 3M5
+877,2016,Shooting,Kingsview Village-The Westway (6),43.699532,-79.556374,M9R 1T7
+878,2015,Stabbing,Rockcliffe-Smythe (111),43.678242,-79.499756,NOTAVAIL
+879,2016,Shooting,Morningside (135),43.764053,-79.205627,M1G 1P1
+880,2015,Stabbing,West Hill (136),43.766151,-79.196434,M1E 1X2
+881,2016,Other,Palmerston-Little Italy (80),43.655464,-79.412613,M6G 1C2
+882,2015,Stabbing,Morningside (135),43.789551,-79.212067,M1E 4E6
+883,2016,Shooting,Victoria Village (43),43.726028,-79.313522,M4A 1J8
+884,2015,Shooting,Highland Creek (134),43.792107,-79.156876,M1C 0C3
+885,2016,Shooting,Black Creek (24),43.769165,-79.518761,M3N 2S6
+886,2015,Shooting,West Humber-Clairville (1),43.686760,-79.595566,NOTAVAIL
+887,2016,Shooting,South Riverdale (70),43.661774,-79.352943,M4M 1G3
+888,2015,Shooting,Church-Yonge Corridor (75),43.668633,-79.386116,M4Y 2B2
+889,2016,Other,Clanton Park (33),43.750641,-79.441567,M3H 2S1
+890,2015,Shooting,Leaside-Bennington (56),43.717308,-79.359261,M4G 2L8
+891,2016,Stabbing,Black Creek (24),43.755314,-79.526909,M3N 1N1
+892,2015,Other,Woodbine Corridor (64),43.680378,-79.311905,M4L 2C2
+893,2016,Shooting,Old East York (58),43.693741,-79.342728,M4J 3S2
+894,2015,Other,Clairlea-Birchmount (120),43.713215,-79.273888,M1L 1W3
+895,2016,Shooting,Scarborough Village (139),43.745022,-79.219696,M1J 3P2
+896,2015,Stabbing,North St.James Town (74),43.667297,-79.373779,M4X 1P8
+897,2016,Stabbing,Dufferin Grove (83),43.652744,-79.431679,M6H 1B2
+898,2015,Stabbing,Tam O'Shanter-Sullivan (118),43.776722,-79.308639,M1T 1M6
+899,2016,Shooting,Weston (113),43.700161,-79.516205,M9N 2B3
+900,2015,Shooting,West Humber-Clairville (1),43.731846,-79.604095,M9W 5L7
+901,2016,Shooting,Kingsview Village-The Westway (6),43.701328,-79.548676,M9R 1V8
+902,2015,Shooting,Thistletown-Beaumond Heights (3),43.743267,-79.582115,M9V 0A1
+903,2016,Stabbing,Moss Park (73),43.656166,-79.370125,NOTAVAIL
+904,2015,Shooting,Waterfront Communities-The Island (77),43.646515,-79.393936,M5V 1K1
+905,2015,Shooting,Don Valley Village (47),43.776211,-79.341011,M2J 5A7
+906,2015,Stabbing,Church-Yonge Corridor (75),43.660671,-79.378876,M5B 1J6
+907,2015,Shooting,Humber Summit (21),43.755978,-79.572075,M9L 2E3
+908,2015,Stabbing,Bay Street Corridor (76),43.647335,-79.379730,NOTAVAIL
+909,2015,Other,Oakridge (121),43.696999,-79.285400,M1L 3P1
+910,2015,Other,Humewood-Cedarvale (106),43.686195,-79.420868,M6C 0A2
+911,2015,Other,Mount Pleasant West (104),43.701797,-79.397346,M2S 2A2
+912,2016,Shooting,Taylor-Massey (61),43.693146,-79.291298,M4C 5M9
+913,2016,Other,Newtonbrook East (50),43.796535,-79.410484,M2M 3G1
+914,2016,Shooting,Princess-Rosethorn (10),43.671997,-79.543495,M9A 2P7
+915,2016,Shooting,L'Amoreaux (117),43.798180,-79.333130,M1W 2K7
+916,2016,Shooting,New Toronto (18),43.599792,-79.509712,NOTAVAIL
+917,2016,Shooting,Bendale (127),43.771683,-79.253655,M1P 4X4
+918,2016,Shooting,Yorkdale-Glen Park (31),43.708241,-79.465813,M6B 2S9
+919,2016,Shooting,Kensington-Chinatown (78),43.655853,-79.399231,M5T 2G7
+920,2016,Other,Mount Olive-Silverstone-Jamestown (2),43.736351,-79.581047,M9V 3M5
+921,2016,Shooting,Kensington-Chinatown (78),43.655853,-79.399231,M5T 2G7
+922,2016,Stabbing,Etobicoke West Mall (13),43.652397,-79.572212,M9C 1G8
+923,2016,Other,Victoria Village (43),43.715988,-79.304939,M4B 2V7
+924,2016,Stabbing,Rustic (28),43.702881,-79.503838,M9N 2S4
+925,2016,Stabbing,Clairlea-Birchmount (120),43.706490,-79.289474,M1L 3H1
+926,2016,Shooting,Humber Heights-Westmount (8),43.692627,-79.517494,M9P 1E9
+927,2016,Shooting,Scarborough Village (139),43.745022,-79.219696,M1J 3P2
+928,2016,Other,Scarborough Village (139),43.744343,-79.213768,M1J 3M5
+929,2016,Other,Kensington-Chinatown (78),43.652412,-79.390663,M5T 3K2
+930,2016,Shooting,L'Amoreaux (117),43.797119,-79.305160,M1T 2Z3
+931,2016,Other,Pelmo Park-Humberlea (23),43.715275,-79.510811,NOTAVAIL
+932,2016,Shooting,South Riverdale (70),43.662285,-79.340599,M4M 2S1
+933,2016,Shooting,Regent Park (72),43.655617,-79.364464,M5A 1T2
+934,2016,Other,York University Heights (27),43.748989,-79.494858,M3J 1A7
+935,2016,Shooting,Rosedale-Moore Park (98),43.670227,-79.386787,M4Y 2B2
+936,2016,Shooting,Mimico (includes Humber Bay Shores) (17),43.611767,-79.496536,M8V 2T2
+937,2016,Shooting,Danforth (66),43.683121,-79.324768,M4C 1H8
+938,2016,Shooting,Wexford/Maryvale (119),43.758415,-79.312927,M1R 4B9
+939,2016,Shooting,Wexford/Maryvale (119),43.758415,-79.312927,M1R 4B9
+940,2016,Shooting,Mount Olive-Silverstone-Jamestown (2),43.732025,-79.589424,M9V 4N4
+941,2017,Shooting,Moss Park (73),43.654858,-79.367943,M5A 1S2
+942,2016,Other,Malvern (132),43.806538,-79.218651,M1B 3G5
+943,2016,Other,Malvern (132),43.806538,-79.218651,M1B 3G5
+944,2016,Other,Malvern (132),43.806538,-79.218651,M1B 3G5
+945,2016,Other,Malvern (132),43.806538,-79.218651,M1B 3G5
+946,2017,Shooting,Humber Summit (21),43.755985,-79.570419,NOTAVAIL
+947,2017,Other,Mimico (includes Humber Bay Shores) (17),43.612087,-79.515823,M8V 2E8
+948,2017,Shooting,Moss Park (73),43.651608,-79.371079,M5A 1N9
+949,2017,Shooting,Cabbagetown-South St.James Town (71),43.662972,-79.362335,M5A 2J1
+950,2017,Shooting,Glenfield-Jane Heights (25),43.754856,-79.517075,M3N 2Y9
+951,2017,Shooting,Danforth (66),43.682812,-79.342972,M4J 1L2
+952,2017,Shooting,Elms-Old Rexdale (5),43.716553,-79.552368,M9W 3W7
+953,2017,Other,Willowdale West (37),43.774895,-79.415581,M2N 1Y7
+954,2017,Other,O'Connor-Parkview (54),43.702221,-79.297287,M4B 2E6
+955,2015,Other,West Humber-Clairville (1),43.742100,-79.595161,M9V 3Y6
+956,2017,Shooting,Thorncliffe Park (55),43.707478,-79.343628,M4H 1C3
+957,2016,Shooting,Mount Olive-Silverstone-Jamestown (2),43.732025,-79.589424,M9V 4N4
+958,2017,Shooting,Rouge (131),43.810204,-79.184669,M1B 6K4
+959,2017,Shooting,Taylor-Massey (61),43.701679,-79.295456,M4B 2E6
+960,2017,Shooting,Humber Heights-Westmount (8),43.691223,-79.519722,M9P 1E9
+961,2017,Shooting,L'Amoreaux (117),43.797455,-79.330933,NOTAVAIL
+962,2017,Shooting,South Riverdale (70),43.660088,-79.344459,M4M 1J4
+963,2017,Shooting,Briar Hill-Belgravia (108),43.697918,-79.451141,M6B 4J3
+964,2017,Other,North Riverdale (68),43.665485,-79.355408,M4M 2B3
+965,2017,Shooting,North Riverdale (68),43.667095,-79.345192,M4M 1Y5
+966,2017,Other,Beechborough-Greenbrook (112),43.688370,-79.482880,M6M 4G9
+967,2017,Shooting,Humbermede (22),43.747688,-79.557281,M9M 2G3
+968,2017,Stabbing,Dovercourt-Wallace Emerson-Junction (93),43.667217,-79.444176,M6H 1N7
+969,2017,Shooting,Regent Park (72),43.660450,-79.364769,M5A 2G7
+970,2017,Shooting,Rouge (131),43.813316,-79.199196,M1B 3J1
+971,2017,Shooting,Rouge (131),43.813316,-79.199196,M1B 3J1
+972,2017,Shooting,Malvern (132),43.810276,-79.210510,M1B 3A9
+973,2017,Shooting,Yorkdale-Glen Park (31),43.714088,-79.454750,M6B 3T8
+974,2017,Shooting,Moss Park (73),43.654526,-79.369461,M5A 1S2
+975,2017,Shooting,Humewood-Cedarvale (106),43.686195,-79.420868,NOTAVAIL
+976,2017,Stabbing,Broadview North (57),43.689510,-79.353661,M4K 2T3
+977,2017,Stabbing,Black Creek (24),43.759285,-79.507927,M3N 1N3
+978,2017,Other,North Riverdale (68),43.667095,-79.345192,M4M 1Y5
+979,2017,Shooting,University (79),43.656723,-79.406517,M5T 1T3
+980,2017,Stabbing,Glenfield-Jane Heights (25),43.749149,-79.515686,M3N 1K1
+981,2017,Shooting,Downsview-Roding-CFB (26),43.719833,-79.513802,M3L 1A2
+982,2017,Shooting,Elms-Old Rexdale (5),43.727653,-79.549538,M9W 2N8
+983,2017,Stabbing,Eglinton East (138),43.739460,-79.245529,M1J 2E1
+984,2017,Stabbing,Henry Farm (53),43.769302,-79.343109,M2J 1M4
+985,2017,Shooting,Dorset Park (126),43.768902,-79.285553,M1P 4N4
+986,2017,Shooting,Cabbagetown-South St.James Town (71),43.663429,-79.360329,M5A 2J1
+987,2017,Shooting,Bay Street Corridor (76),43.648010,-79.386368,NOTAVAIL
+988,2017,Stabbing,Birchcliffe-Cliffside (122),43.698170,-79.264465,M1N 3J7
+989,2017,Shooting,Downsview-Roding-CFB (26),43.719833,-79.513802,NOTAVAIL
+990,2017,Shooting,South Riverdale (70),43.643093,-79.350617,M5A 1A4
+991,2017,Shooting,South Riverdale (70),43.643093,-79.350617,M5A 1A4
+992,2017,Shooting,Kingsview Village-The Westway (6),43.694473,-79.548469,M9R
+993,2017,Other,Rexdale-Kipling (4),43.726551,-79.570236,M9W 4L5
+994,2017,Stabbing,Woodbine-Lumsden (60),43.697529,-79.315949,M4C 4K7
+995,2017,Shooting,Kingsview Village-The Westway (6),43.698734,-79.552231,M9R 3C8
+996,2017,Shooting,Humber Summit (21),43.751442,-79.552986,M9L 1X9
+997,2017,Stabbing,Thorncliffe Park (55),43.707478,-79.343628,M4H 1C3
+998,2017,Other,Dovercourt-Wallace Emerson-Junction (93),43.667763,-79.425438,M6G 3N1
+999,2017,Stabbing,Victoria Village (43),43.715988,-79.304939,M4B 2V7
+1000,2018,Shooting,York University Heights (27),43.777721,-79.494652,M3J
+1001,2018,Shooting,Tam O'Shanter-Sullivan (118),43.783596,-79.299347,M1T 2M5
+1002,2018,Other,South Riverdale (70),43.659195,-79.348495,NOTAVAIL
+1003,2018,Shooting,Downsview-Roding-CFB (26),43.734863,-79.489098,M3M 2C9
+1004,2018,Stabbing,Kennedy Park (124),43.732773,-79.264557,M1K 2P8
+1005,2018,Other,Clairlea-Birchmount (120),43.700085,-79.286728,M1L 3H1
+1006,2018,Other,Church-Yonge Corridor (75),43.656502,-79.377144,M5B 1Z2
+1007,2018,Shooting,Pelmo Park-Humberlea (23),43.719475,-79.530441,M9M 2K3
+1008,2018,Shooting,West Hill (136),43.767654,-79.189613,M1E 1Z7
+1009,2018,Other,Moss Park (73),43.654526,-79.369461,M5A 1S2
+1010,2018,Stabbing,Moss Park (73),43.660656,-79.374847,M5A 2L3
+1011,2018,Shooting,Kingsview Village-The Westway (6),43.701328,-79.548676,M9R 1V8
+1012,2018,Shooting,Black Creek (24),43.759018,-79.517776,M3N 2Y9
+1013,2018,Shooting,Waterfront Communities-The Island (77),43.644955,-79.397644,M5V 1L7
+1014,2018,Shooting,Mount Olive-Silverstone-Jamestown (2),43.750977,-79.585831,M9V 5C7
